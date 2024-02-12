@@ -4,6 +4,8 @@ This repository presents the implementation of a genetic algorithm for optimizin
 
 **Current status**: Refactoring 🔨
 
+**TO START THE PROGRAM, YOU NEED TO HAVE COMSOL MULTIPHYSICS LIVELINK AND MATLAB**
+
 ---
 Program structure:
  - optimization_res.m
