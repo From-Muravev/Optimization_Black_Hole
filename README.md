@@ -1,6 +1,8 @@
-# Optimization_black_hole
+# Optimization Black Hole
 
 This repository presents the implementation of a genetic algorithm for optimizing a metamaterial with a Christmas tree structure, the physics of which is based on the phenomenon of an acoustic black hole.
+
+**Current status**: Refactoring 🔨
 
 ---
 Program structure:
