@@ -1,7 +1,7 @@
 # Optimization_black_hole
 
 This repository presents the implementation of a genetic algorithm for optimizing a metamaterial with a Christmas tree structure, the physics of which is based on the phenomenon of an acoustic black hole.
-
+---
 Program structure:
  - optimization_res.m
  This is the file that is responsible for running the entire program.
@@ -22,5 +22,5 @@ Program structure:
  - Export_3D.m
  This file implements the receipt of a 3D structure in the form of a .mph file for its further printing
  - Auxiliary functions are also present (corresponding folder)
-
+---
 The details of each part of the program are described in files before the code.
